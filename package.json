@@ -1,0 +1,27 @@
+{
+  "name": "24.mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobltpqls99/24.mongo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gobltpqls99/24.mongo/issues"
+  },
+  "homepage": "https://github.com/gobltpqls99/24.mongo#readme",
+  "description": ""
+}
